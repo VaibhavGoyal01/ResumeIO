@@ -63,6 +63,7 @@ jobs:
             cd home
             sudo mv * /var/www/html
 ```
+![image](https://github.com/user-attachments/assets/a7423457-e654-4735-aff3-9156ccb2c006)
 
 ### Step 4: Testing
 - Push changes to the `main` branch and verify if GitHub Actions automatically deploys the code to the EC2 instance.
