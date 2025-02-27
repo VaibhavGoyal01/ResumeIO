@@ -69,5 +69,3 @@ jobs:
 - Push changes to the `main` branch and verify if GitHub Actions automatically deploys the code to the EC2 instance.
 - You can monitor the workflow execution in the "Actions" tab of your GitHub repository.
 
-## Conclusion
-By following these steps, you have successfully set up a CI/CD pipeline to deploy your resume to AWS EC2 automatically using GitHub Actions. 🎉
